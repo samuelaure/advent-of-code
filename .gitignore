@@ -1,0 +1,16 @@
+
+# Inputs
+**/input-*.txt
+
+# Node.js
+node_modules/
+dist/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
