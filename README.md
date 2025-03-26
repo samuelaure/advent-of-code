@@ -18,8 +18,8 @@ To execute a specific puzzle / day part
 npm run puzzle <language> <year> <puzzle>
 ```
 
-Ejemplo:
+Example:
 
 ```sh
-npm run puzze typescript 2024 1
+npm run puzzle typescript 2024 1
 ```
